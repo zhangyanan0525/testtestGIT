@@ -2,8 +2,14 @@ Earth's Moon
 #master
 #在reset --hard之前先让我打个commit
 #commit4
+<<<<<<< HEAD
 #commit20
 #commit21
 #commit22
 #commit23
 #ommit24
+=======
+#commit22
+#commit23
+#ommit24
+>>>>>>> f731edfedac299544383347d274798e7b091e551
